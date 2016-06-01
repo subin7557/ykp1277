@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KindNewspaper</string>
+    <string name="app_name">프래그먼트랑 네비게이션합친거</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
