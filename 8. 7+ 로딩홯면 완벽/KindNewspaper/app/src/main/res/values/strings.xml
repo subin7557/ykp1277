@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">착한신문</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="q1">1. 기사 제목이 자극적 이였나요?</string>
+    <string name="q2">2. 기사 제목이 기사 내용과 무관한 내용 이였나요?</string>
+    <string name="q3">3. 기사 내용이 타인을 비방하는 내용 이였나요?</string>
+    <string name="q4">4. 기사 내용이 알찼나요?</string>
+    <string name="q5">5. 기사 내용이 객관적 이였나요?</string>
+</resources>

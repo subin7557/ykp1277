@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+
+    <item android:title="신문사">
+
+
+    <menu>
+
+    <item android:title="한국경제TV" android:icon="@drawable/ic_menu_gallery" android:id="@+id/nav_wowtv"/>
+
+    <item android:title="조선닷컴" android:icon="@drawable/ic_menu_camera" android:id="@+id/nav_chosun"/>
+
+</menu>
+
+</item>
+
+</group>
+
+
+    <item android:title="Communicate">
+
+
+    <menu>
+
+    <item android:title="Share" android:icon="@drawable/ic_menu_share" android:id="@+id/nav_share"/>
+
+    <item android:title="Send" android:icon="@drawable/ic_menu_send" android:id="@+id/nav_send"/>
+
+</menu>
+
+</item>
+
+</menu>
